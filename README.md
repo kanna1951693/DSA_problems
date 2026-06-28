@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0014-longest-common-prefix](https://github.com/kanna1951693/DSA_problems/tree/master/0014-longest-common-prefix) |
 | [0151-reverse-words-in-a-string](https://github.com/kanna1951693/DSA_problems/tree/master/0151-reverse-words-in-a-string) |
+| [0796-rotate-string](https://github.com/kanna1951693/DSA_problems/tree/master/0796-rotate-string) |
 ## Array
 |  |
 | ------- |
@@ -18,4 +19,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/kanna1951693/DSA_problems/tree/master/0014-longest-common-prefix) |
+## String Matching
+|  |
+| ------- |
+| [0796-rotate-string](https://github.com/kanna1951693/DSA_problems/tree/master/0796-rotate-string) |
 <!---LeetCode Topics End-->
