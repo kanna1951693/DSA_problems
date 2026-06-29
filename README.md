@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/kanna1951693/DSA_problems/tree/master/0001-two-sum) |
 | [0014-longest-common-prefix](https://github.com/kanna1951693/DSA_problems/tree/master/0014-longest-common-prefix) |
+| [0053-maximum-subarray](https://github.com/kanna1951693/DSA_problems/tree/master/0053-maximum-subarray) |
 ## Trie
 |  |
 | ------- |
@@ -28,4 +29,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/kanna1951693/DSA_problems/tree/master/0001-two-sum) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0053-maximum-subarray](https://github.com/kanna1951693/DSA_problems/tree/master/0053-maximum-subarray) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0053-maximum-subarray](https://github.com/kanna1951693/DSA_problems/tree/master/0053-maximum-subarray) |
 <!---LeetCode Topics End-->
