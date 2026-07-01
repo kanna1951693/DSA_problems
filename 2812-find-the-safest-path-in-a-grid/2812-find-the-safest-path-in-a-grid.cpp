@@ -55,7 +55,6 @@ public:
             if (current_safety < max_safe_path[r][c]) {
                 continue;
             }
-
             for (int i = 0; i < 4; ++i) {
                 int nr = r + dr[i];
                 int nc = c + dc[i];
