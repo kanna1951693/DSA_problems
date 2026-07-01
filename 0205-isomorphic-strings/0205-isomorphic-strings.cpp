@@ -7,11 +7,17 @@ public:
             if(mpp.find(s[i])!=mpp.end()){
                 if(mpp[s[i]]!=t[i]) return false;
             }
+            else{
+                mpp[s[i]]=t[i];
+            }
             if(pmm.find(t[i])!=pmm.end()){
                 if(pmm[t[i]]!=s[i]) return false;
             }
-            pmm[t[i]]=s[i];
-            mpp[s[i]]=t[i];
+            else{
+                pmm[t[i]]=s[i];
+            }
+            
+            
         }
         return true;
     }
